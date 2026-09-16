@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Ulassaa/Ulassaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ulaş Altun
 
-Here are some ideas to get you started:
+MPhil Advanced Computer Science student at the University of Cambridge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests lie at the intersection of **optimization, machine learning, operations research, and decision-making under uncertainty**, with applications in transportation and logistics.
+
+## Research Interests
+
+- Mathematical Optimization
+- Machine Learning
+- Operations Research
+- Reinforcement Learning
+- Vehicle Routing and Logistics
+- Decision-Making under Uncertainty
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/ula%C5%9F-altun-b764032a3/)
