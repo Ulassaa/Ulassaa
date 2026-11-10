@@ -17,4 +17,4 @@ My interests lie at the intersection of **optimization, machine learning, operat
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/ula%C5%9F-altun-b764032a3/)
+[LinkedIn](https://www.linkedin.com/in/ulas-altun-b764032a3/)
